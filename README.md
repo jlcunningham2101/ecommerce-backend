@@ -1,14 +1,34 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
-## Project Description
+## Table of Contents
 
-## User Story
+- [Description](#description)
+- [Features](#features)
+- [User-Story](#user-story)
+- [Acceptance-Criteria](#acceptance-criteria)
+- [Github-Link](#github-link)
+- [Deployed-Link](#deployed-link)
+- [Contributor](#contributor)
+
+### Description
+
+This application serves as the backend for an e-commerce website.
+
+### Features
+
+This application includes the following features:
+
+- Javascript
+- MySQL2
+- Sequelize
+
+### User Story
 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
@@ -22,6 +42,14 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
-## Webpage Screenshots
+### GitHub Link
 
-## Deployed Links
+https://github.com/jlcunningham2101/ecommerce-backend
+
+### Deployed Link
+
+### Contributor
+
+Name: Jill Cunningham
+Email: jleighcunningham@gmail.com
+GitHub URL: https://github.com/jlcunningham2101
