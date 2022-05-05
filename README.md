@@ -45,8 +45,11 @@ THEN I am able to successfully create, update, and delete data in my database
 ### GitHub Link
 
 https://github.com/jlcunningham2101/ecommerce-backend
+https://github.com/jlcunningham2101/ecommerce-backend.git
 
 ### Deployed Link
+
+https://jlcunningham2101.github.io/ecommerce-backend/
 
 ### Contributor
 
